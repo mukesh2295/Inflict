@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import "./style.css";
 import ValidatedLoginForm from "./ValidateForm";
 
-const form = function App() {
+const form = function Form() {
   return (
     <div className="App">
       <h1> Login Form</h1>
